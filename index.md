@@ -1,3 +1,3 @@
-# Header example 1
-#### Header example 2
-![Image of Yogitocat](https://octodex.github.com/yogitocat/)
+# Calming Techniques
+#### Yoga
+![Image of Yogitocat](https://octodex.github.com/images/yogitocat.png)
